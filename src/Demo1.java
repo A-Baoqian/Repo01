@@ -15,7 +15,7 @@ public class Demo1 {
 		System.out.print("不客气 \n");
 		// 单行注释 换行输出
 		System.out.println("Hello Wrold");
-//       Scanner scan=new Scanner(System.in);
+        Scanner scan=new Scanner(System.in);
 	}
 
 }
